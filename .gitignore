@@ -1,4 +1,6 @@
 /vendor
+*.bat
+contribute.py
 node_modules
 Homestead.yaml
 Homestead.json
